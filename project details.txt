@@ -1,0 +1,13 @@
+content chatgpt
+images (pixabay, unsplash)
+freepik, free animation icons 8, flaticon
+gradient (egggradient, uigradient)
+
+
+folder wise
+js
+css
+images
+
+
+

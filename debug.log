@@ -1,0 +1,9 @@
+Order ID: order_1743769330039_9990, Restaurant: WorkOnFire, User ID: 1, Rows: 0
+Order ID: order_1743769330039_9990, Restaurant: WorkOnFire, User ID: 1, Rows: 0
+Order ID: order_1743769330039_9990, Restaurant: WorkOnFire, User ID: 1, Rows: 0
+2025-04-17 16:44:07 - Order ID: order_1743769330039_9990, Restaurant: WorkOnFire, User ID: 1, Rows: 0, Query: SELECT item_name, price, quantity 
+            FROM restaurant_orders 
+            WHERE order_id = ? AND UPPER(restaurant) = UPPER(?) AND status = 'pending'
+2025-04-17 16:45:21 - Order ID: order_1743769330039_9990, Restaurant: WorkOnFire, User ID: 1, Rows: 0, Query: SELECT item_name, price, quantity 
+            FROM restaurant_orders 
+            WHERE order_id = ? AND UPPER(restaurant) = UPPER(?) AND status = 'pending'

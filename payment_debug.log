@@ -1,0 +1,8 @@
+----- New Payment Process Started -----
+Connecting to database...
+Database connected successfully
+Restaurant: WorkOnFire
+Order ID: order_1743769330039_9990
+User ID: 1
+SQL: SELECT * FROM restaurant_orders WHERE order_id = ? AND restaurant = ? AND status = 'pending' AND user_id = ?
+Found 3 order items
